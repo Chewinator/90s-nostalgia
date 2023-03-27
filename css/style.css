@@ -72,7 +72,7 @@ nav a:focus{
 
 .hero{
     width: 100%;
-    padding: 10em 0 10em 0;
+    padding: 10em 0;
     display: inline-block;
     background-image: url("../images/greatest-90s-fashion-trends.webp");
     background-repeat: no-repeat;
@@ -80,12 +80,13 @@ nav a:focus{
     background-position: top center;
 }
 
-hero h1{
+.hero h1{
     width: 75%;
-    padding: 5em;
-    margin: center;
-    color: aliceblue;
-    font-size: 2em;
+    padding: .5em;
+    margin: auto;
+    color: white;
+    font-size: 2rem;
+    text-align: center;
     text-shadow: 2px 2px rgba(0,0,0,8);
     background-color: rgba(0,0,0.25);
 }
