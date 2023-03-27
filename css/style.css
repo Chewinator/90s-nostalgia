@@ -119,8 +119,8 @@ figcaption{
 .icon+p{
     clear:left;
 }
-.featured.articles{
-    display:none;
+.featured-articles{
+    visibility: hidden;
 }
 footer{
     background-color: black;
